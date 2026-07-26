@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saksham Shrivastava</h1>
-<h3 align="center">A passionate Programmer, hardworking and Tech Enthusiast.</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Alpha Airlines](https://github.com/saakshaam/Alpha-Airlines)
-
+- 🔭 I’m currently working on [Digital Wallte and Transactions Management System]
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 👨‍💻 All of my projects are available at [www.saakshaam.tk](www.saakshaam.tk)
-
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/adding-image-in-existing-pdf-file-using-java/](https://www.geeksforgeeks.org/adding-image-in-existing-pdf-file-using-java/)
 
 - 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **saakshaam08@gmail.com**
 
-- ⚡ Fun fact **I am Innocent and Stubborn!!:)**
+- ⚡ Fun fact **I am Innocent and Curious!!:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
